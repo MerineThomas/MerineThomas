@@ -16,7 +16,7 @@
   * Git, CVS, Jira 
   * VS Code, Jupyter Notebook
 
-- - 📫 How to reach me: 
+-  📫 How to reach me: 
 Phone : 07880114648
 Email : merinethomas.87@gmail.com
 Linkedin : https://www.linkedin.com/in/merine-thomas-07b15216/
