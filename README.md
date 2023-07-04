@@ -17,9 +17,9 @@
   * VS Code, Jupyter Notebook
 
 -  📫 How to reach me: 
-* Phone : 07880114648
-* Email : merinethomas.87@gmail.com
-* Linkedin : https://www.linkedin.com/in/merine-thomas-07b15216/
+   * Phone : 07880114648
+   * Email : merinethomas.87@gmail.com
+   * Linkedin : https://www.linkedin.com/in/merine-thomas-07b15216/
 
 <!--
 **MerineThomas/MerineThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
